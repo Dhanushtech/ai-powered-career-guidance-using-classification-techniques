@@ -1,0 +1,4 @@
+--Install Xamp server
+--use vs code and install all the required python packages
+--import the sql file to phpmyadmin
+--Then run server and flask file.
